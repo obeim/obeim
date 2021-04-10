@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @obeim
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning mern stack
-- 📫 you cant contact me via email: obeimustafa@gmail.com
+- 📫 you can contact me via email: obeimustafa@gmail.com
 
 <!---
 obeim/obeim is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
