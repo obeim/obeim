@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @obeim
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning NextJs
+- 🌱 I’m currently learning Flutter
 - 📫 you can contact me via email: obeimustafa@gmail.com
 
 <!---
