@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @obeim
-- 👀 I’m interested in web development
+- 👀 I’m interested in .... idk
 - 🌱 I’m currently learning Flutter
 - 📫 you can contact me via email: obeimustafa@gmail.com
 
