@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @obeim
 - 👀 I’m interested in .... idk
-- 🌱 I’m currently learning Flutter
+- 🌱 I’m currently learning .....
 - 📫 you can contact me via email: obeimustafa@gmail.com
 
 <!---
