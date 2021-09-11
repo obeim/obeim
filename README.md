@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @obeim
-- 👀 I’m interested in .... idk
+- 👀 I’m interested in Front end
 - 🌱 I’m currently learning .....
 - 📫 you can contact me via email: obeimustafa@gmail.com
 
